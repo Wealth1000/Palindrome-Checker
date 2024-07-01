@@ -1,6 +1,7 @@
 body{  
   background-color:#352f44;
   font-family:sans-serif;
+  max-width: 400px;
 }
 a{
   color: #5347F5;
